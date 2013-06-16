@@ -1,0 +1,6 @@
+Spot number 1	Thai food	40
+Spot number 2	Thai food	35
+Noodle Shop	Noodle	35
+108 shop	Junk food	20
+iPlace coffee	Coffee	40
+aon's restaurant	thai food	30
