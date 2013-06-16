@@ -47,13 +47,13 @@ class Restaurant
     def self.build_using_questions
       #restaurant = Restaurant.new
       args = {}
-      print "Restaurant name: "
+      print "Restaurant name:: "
       #restaurant.name = gets.chomp.strip
       args[:name] = gets.chomp.strip
-      print "Cuisine Type: "
+      print "Cuisine Type:: "
       #restaurant.cuisine = gets.chomp.strip
       args[:cuisine] = gets.chomp.strip
-      print "Average price: "
+      print "Average price:: "
       #restaurant.price = gets.chomp.strip
       args[:price] = gets.chomp.strip
 
